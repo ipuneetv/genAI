@@ -1,0 +1,308 @@
+===============================================================================
+PROMPT SHORTCUT LIBRARY
+===============================================================================
+
+[1] LEARNING & EDUCATION
+-------------------------------------------------------------------------------
+ELI5              : Explain Like I'm 5
+ELI15             : Explain Like I'm 15
+BEGINNER          : Explain for beginners
+ADVANCED          : Deep technical explanation
+SOCRATIC          : Teach through questions
+TUTOR MODE        : Act as a personal tutor
+MENTOR MODE       : Act as a mentor
+COACH MODE        : Guide step-by-step
+ANALOGY           : Explain using real-life examples
+FIRST PRINCIPLES  : Explain from fundamentals
+BIG PICTURE       : Explain overall architecture
+DEEP DIVE         : Explore in detail
+WHY               : Explain why it works
+HOW               : Explain how it works
+WHEN              : Explain when to use it
+WHEN NOT          : Explain when not to use it
+VISUALIZE         : Create diagrams/visuals
+MINDMAP           : Create text mind map
+FAQ               : Convert to Q&A format
+
+Examples:
+SOCRATIC: REST APIs
+FIRST PRINCIPLES: Internet
+ELI15: LLMs
+
+
+[2] LEARNING ACCELERATORS
+-------------------------------------------------------------------------------
+80/20             : Focus on most important 20%
+ROADMAP           : Learning path
+LEARNING PATH     : Structured curriculum
+STUDY PLAN        : Daily/weekly plan
+BOOTCAMP          : Crash course
+ZERO TO HERO      : Beginner to expert
+SKILL TREE        : Show prerequisites
+CHECKPOINTS       : Learning milestones
+KNOWLEDGE GAPS    : Find missing knowledge
+COMMON MISTAKES   : Beginner mistakes
+PITFALLS          : Things to avoid
+REVISION          : Revision notes
+CHEATSHEET        : Quick reference
+FLASHCARDS        : Study flashcards
+QUIZ ME           : Test my knowledge
+CHALLENGE ME      : Give exercises
+TIMELINE          : Learning sequence
+
+Examples:
+80/20 + ROADMAP: AI Agents
+QUIZ ME: HTTP Methods
+
+
+[3] PROJECT-BASED LEARNING
+-------------------------------------------------------------------------------
+PROJECT FIRST     : Learn through projects
+LEARN BY DOING    : Hands-on learning
+BUILD IN PUBLIC   : Learn while building
+MINI PROJECTS     : Small projects for practice
+CAPSTONE PROJECT  : Final project
+CASE STUDY        : Learn from real examples
+PORTFOLIO MODE    : Build portfolio projects
+REAL WORLD        : Focus on practical examples
+
+Examples:
+PROJECT FIRST: API Testing
+MINI PROJECTS: Python
+
+
+[4] EXPLANATION & UNDERSTANDING
+-------------------------------------------------------------------------------
+TL;DR             : Short summary
+1L                : One-line explanation
+BULLETS           : Bullet-point summary
+TABLE             : Present as table
+FLOW              : Process flow
+DIAGRAM           : ASCII diagram
+COMPARE           : Compare options
+PROS/CONS         : Advantages & disadvantages
+EXAMPLES          : Show examples
+USE CASES         : Practical applications
+SIMPLIFY          : Simplify content
+EXPAND            : Add details
+BREAKDOWN         : Break into smaller parts
+
+Examples:
+COMPARE: REST vs GraphQL
+FLOW: Login process
+
+
+[5] THINKING FRAMEWORKS
+-------------------------------------------------------------------------------
+SWOT              : SWOT analysis
+PESTLE            : Political, Economic, Social, Tech, Legal, Env.
+PORTER            : Porter's Five Forces
+FIRST PRINCIPLES  : Fundamental thinking
+SECOND ORDER      : Long-term consequences
+INVERSION         : Think backwards
+PARETO            : 80/20 analysis
+FIVE WHYS         : Root cause analysis
+ROOT CAUSE        : Identify root causes
+SYSTEMS THINKING  : View interconnected systems
+DECISION TREE     : Decision analysis
+
+Examples:
+SWOT: Beyond Testing
+FIVE WHYS: Production issue
+
+
+[6] PROBLEM SOLVING
+-------------------------------------------------------------------------------
+ROOT CAUSE        : Find cause
+DEBUG             : Troubleshoot systematically
+RCA               : Root Cause Analysis
+GAPS              : Identify missing pieces
+RISKS             : Identify risks
+MITIGATION        : Risk mitigation
+ALTERNATIVES      : Suggest alternatives
+TRADEOFFS         : Compare compromises
+DECISION          : Recommend best option
+NEXT STEPS        : Immediate actions
+
+Examples:
+RCA: Failed deployment
+RISKS: AI Agent project
+
+
+[7] PRODUCTIVITY & EXECUTION
+-------------------------------------------------------------------------------
+CHECKLIST         : Action checklist
+PLAN              : Execution plan
+WEEKLY            : Weekly plan
+DAILY             : Daily plan
+ACTIONS           : Extract action items
+PRIORITIZE        : Rank by importance
+FOCUS             : Identify critical tasks
+TIMEBOX           : Estimate effort
+AUTOMATE          : Automation opportunities
+PLAYBOOK          : Operational guide
+
+Examples:
+PLAN: Launch a YouTube channel
+CHECKLIST: UAT Sign-off
+
+
+[8] WRITING & COMMUNICATION
+-------------------------------------------------------------------------------
+REWRITE           : Improve writing
+FIX               : Correct grammar
+PROOFREAD         : Review content
+SUMMARIZE         : Summarize text
+EXPAND            : Add detail
+SHORTEN           : Make concise
+PROFESSIONAL      : Formal tone
+CASUAL            : Informal tone
+EMAIL             : Draft email
+LINKEDIN          : LinkedIn post
+BLOG              : Blog article
+TWEET             : X/Twitter post
+
+Examples:
+REWRITE: This email
+LINKEDIN: AI Testing trend
+
+
+[9] CAREER & INTERVIEWS
+-------------------------------------------------------------------------------
+INTERVIEW         : Interview preparation
+MOCK INTERVIEW    : Simulated interview
+RECRUITER MODE    : Evaluate resume/profile
+HIRING MANAGER    : Think like hiring manager
+RESUME REVIEW     : Resume feedback
+CAREER COACH      : Career guidance
+PROMOTION PLAN    : Growth roadmap
+SKILL GAP         : Missing skills
+SALARY NEGOTIATION: Negotiation advice
+
+Examples:
+INTERVIEW: QA Manager
+SKILL GAP: Test Architect
+
+
+[10] BUSINESS & STRATEGY
+-------------------------------------------------------------------------------
+CEO MODE          : Think like CEO
+FOUNDER MODE      : Think like startup founder
+INVESTOR MODE     : Think like investor
+CONSULTANT MODE   : Think like consultant
+BUSINESS PLAN     : Business planning
+GO TO MARKET      : GTM strategy
+MONETIZATION      : Revenue strategy
+PRICING           : Pricing strategy
+COMPETITOR ANALYSIS: Analyze competitors
+
+Examples:
+CEO MODE: Beyond Testing
+MONETIZATION: Online course
+
+
+[11] AI & PROMPT ENGINEERING
+-------------------------------------------------------------------------------
+PROMPT IMPROVE    : Improve prompt
+PROMPT GENERATE   : Create prompts
+PROMPT CRITIQUE   : Review prompt
+AGENT DESIGN      : Design AI agent
+AGENT ROADMAP     : Agent development plan
+TOOLS ANALYSIS    : Suggest tools
+WORKFLOW DESIGN   : Design workflow
+AI USE CASES      : AI applications
+AI ARCHITECT      : AI system design
+
+Examples:
+AGENT DESIGN: Testing Assistant
+PROMPT IMPROVE: My prompt
+
+
+[12] ROLE-PLAY MODES
+-------------------------------------------------------------------------------
+TEACHER MODE      : Teacher
+PARENT MODE       : Parent
+TESTER MODE       : QA Engineer
+DEVELOPER MODE    : Software Developer
+ARCHITECT MODE    : Solution Architect
+CEO MODE          : CEO
+INVESTOR MODE     : Investor
+RECRUITER MODE    : Recruiter
+LAWYER MODE       : Legal perspective
+CONSULTANT MODE   : Consultant
+
+Examples:
+TESTER MODE: Review requirements
+ARCHITECT MODE: Design microservices
+
+
+[13] KNOWLEDGE EXTRACTION
+-------------------------------------------------------------------------------
+ACTIONS           : Extract actions
+RISKS             : Extract risks
+DECISIONS         : Extract decisions
+ASSUMPTIONS       : Extract assumptions
+KEY POINTS        : Main takeaways
+LESSONS LEARNED   : Learning points
+OPEN QUESTIONS    : Unanswered questions
+METRICS           : KPIs & measurements
+
+Examples:
+ACTIONS: Meeting notes
+LESSONS LEARNED: Project retrospective
+
+
+[14] INTERACTIVE MODES
+-------------------------------------------------------------------------------
+ASK ONE QUESTION  : One question at a time
+GUIDED MODE       : Interactive guidance
+LEARNING BUDDY    : Learn together
+INTERVIEWER MODE  : Ask interview questions
+QUIZ MASTER       : Conduct quiz
+GAME MODE         : Gamified learning
+PROGRESSIVE       : Increase difficulty gradually
+
+Examples:
+ASK ONE QUESTION: AI Agents
+GUIDED MODE: Docker
+===============================================================================
+
+FAVORITE COMBINATIONS
+===============================================================================
+
+SOCRATIC + ASK ONE QUESTION
+= Interactive tutoring
+
+80/20 + ROADMAP
+= Fastest learning path
+
+PROJECT FIRST + LEARN BY DOING
+= Build while learning
+
+FIRST PRINCIPLES + ELI15
+= Deep but simple understanding
+
+ROADMAP + CHECKPOINTS
+= Structured growth plan
+
+QUIZ ME + FLASHCARDS
+= Revision mode
+
+CEO MODE + SWOT
+= Strategic thinking
+
+ROOT CAUSE + FIVE WHYS
+= Problem solving
+
+COMPARE + TABLE
+= Clear comparison
+
+TL;DR + ACTIONS
+= Summary with next steps
+
+AGENT DESIGN + 80/20
+= Fast AI agent creation    
+
+TESTER MODE + REAL WORLD
+= Practical QA learning
+===============================================================================
